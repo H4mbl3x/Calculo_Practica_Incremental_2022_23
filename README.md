@@ -2,14 +2,14 @@
 title: README
 author: Andrés García López
 abstract: |
-  Práctica Incremental de Matlab de Cálculo del curso 22/23.
+  Práctica Incremental de Matlab de Cálculo del curso 2022/23.
   Simulación de sistemas de población.
-date: Curso 22/23
+date: Curso 2022/23
 lang: es-ES
 ---
 
-# Práctica Incremental Cálculo 22/23
-Práctica Incremental de Matlab de Cálculo y Métodos Numéricos hecha durante el curso 22/23: **Simulación de sistemas de población**
+# Práctica Incremental Cálculo 2022/23
+Práctica Incremental de Matlab de Cálculo y Métodos Numéricos hecha durante el curso 2022/23: **Simulación de sistemas de población**
 
 Componentes
 -----------
